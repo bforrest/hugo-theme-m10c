@@ -4,6 +4,10 @@
   text-align: center;
 }
 
+.app-header p {
+  color: $lightest-color;
+}
+
 .app-header-avatar {
   max-width: 15rem;
   max-height: 15rem;
